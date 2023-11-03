@@ -5,7 +5,7 @@ Email: JalinBrownWorks@gmail.com
 
 ## Brief Description
 
-This C++ code provides a templetized implementation of the `Rational` class. It assumes that the template parameter `T` can perform all required arithmetic operations such as addition, subtraction, division, and multiplication. The class allows you to work with rational numbers and perform various operations on them, ensuring proper handling of sign and simplification of fractions.
+This C++ code provides a templetized implementation of the `Rational` class. The template parameter `T` can perform all required arithmetic operations such as addition, subtraction, division, and multiplication. This class allows you to work with rational numbers and perform various operations on them, ensuring proper handling of sign and simplification of fractions.
 
 ## Features
 
