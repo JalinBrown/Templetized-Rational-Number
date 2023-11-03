@@ -1,4 +1,4 @@
-# TempletizedRational C++ Class
+# Templetized Rational Number C++ Class
 
 Author: Jalin Brown
 Email: JalinBrownWorks@gmail.com
